@@ -5,9 +5,9 @@ Front-end Web Developer
 -----------------------
 
 * 🌍  I'm based in Córdoba, Argentina
-* 🖥️  See my portfolio at [MyPortfolio](http://https://pepi1100.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://pepi1100.github.io/Portfolio/)
 * ✉️  You can contact me at [p.tarrago97@gmail.com](mailto:p.tarrago97@gmail.com)
-* 🧠  I'm learning Javascript and Python
+* 🧠  I'm learning Javascript and Python ar [ISPC](https://www.ispc.edu.ar/) and [Argentina Programa 2º Etapa](https://www.argentina.gob.ar/economia/conocimiento/argentina-programa)
 * 🤝  I'm open to collaborating on Web proyects
 
 ### Skills
