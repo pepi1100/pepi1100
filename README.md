@@ -6,7 +6,7 @@ Front-end Web Developer
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [p.tarrago97@gmail.com](mailto:p.tarrago97@gmail.com)
-* 🧠  I'm learning Javascript and Python at [ISPC](https://www.ispc.edu.ar/) and [Argentina Programa 2º Etapa](https://www.argentina.gob.ar/economia/conocimiento/argentina-programa)
+* 🧠  I'm learning Javascript and Python at [ISPC](https://www.ispc.edu.ar/)
 * 🤝  I'm open to collaborating on Web proyects
 
 ### Skills
